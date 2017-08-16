@@ -8,7 +8,7 @@ It contains Ubuntu 16.04 desktop and a VNC server. You just need to connect to i
 
 # How to run
 
-`docker run -p 5901:5901 ocihangir/pepper-on-ubuntu-desktop`
+`docker run -p 5901:5901 ocihangir/docker-pepper`
 
 and then connect to:
 
